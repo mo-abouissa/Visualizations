@@ -1,123 +1,123 @@
 City,State,Salary,CoL
-Sunnyvale, CA,5730,null
-Bellevue, WA,5394,88.85
-San Francisco, CA,5096.96,97.84
-San Jose, CA,4969.94,82.87
-Washington, DC,4426.31,91.94
-Seattle, WA,4423.85,88.04
-New York, NY,4157,100
-San Diego, CA,4028.1,77.01
-Fremont, CA,3975.71,null
-Anchorage, AK,3967.31,94.99
-Irvine, CA,3908.29,83.73
-Boston, MA,3888.04,87.05
-Oakland, CA,3797.5,85.11
-Atlanta, GA,3762.84,74.97
-Austin, TX,3711.99,72.46
-Arlington, VA,3708.33,89.2
-Honolulu, HI,3699.56,94.15
-Chicago, IL,3676.52,80.16
-Jersey City, NJ,3593.87,79.91
-Sacramento, CA,3567.77,78.75
-Houston, TX,3512.9,70.37
-Dallas, TX,3511.28,65.94
-Santa Barbara, CA,3489,79.17
-Los Angeles, CA,3483.44,82.3
-Denver, CO,3464.56,77.31
-Portland, OR,3438.45,78.45
-Long Beach, CA,3409.75,78.23
-Minneapolis, MN,3367.97,81.46
-Plano, TX,3358.3,75.32
-Nashville, TN,3357.96,71.88
-Santa Rosa, CA,3325.25,90.23
-Berkeley, CA,3289.11,87.82
-Virginia Beach, VA,3269,69.33
-Charlotte, NC,3248.85,75.35
-Saint Petersburg, FL,3236.6,73.29
-Raleigh, NC,3226.65,71.4
-Tampa, FL,3165.19,76.53
-Brooklyn, NY,3057.93,93.79
-Fort Lauderdale, FL,3004.13,77.67
-Saint Louis, MO,2988.33,70.76
-Salt Lake City, UT,2984.6,66.76
-Madison, WI,2940.73,65.6
-Philadelphia, PA,2919.58,83.46
-Orlando, FL,2918.79,76.63
-Vancouver, WA,2910.18,67.79
-Las Vegas, NV,2890.69,70.97
-Tacoma, WA,2882.22,82.54
-West Palm Beach, FL,2870.08,76.52
-Phoenix, AZ,2859.09,66.87
-Fort Worth, TX,2858.99,67.81
-Burlington, VT,2851.73,78.89
-Colorado Springs, CO,2843.93,75.42
-Baltimore, MD,2808.57,76.57
-San Antonio, TX,2802.73,60.92
-Arlington, TX,2787,65.63
-Harrisburg, PA,2763.82,69.91
-Boulder, CO,2748,82.19
-Ann Arbor, MI,2731.33,70.01
-Memphis, TN,2714.12,72.95
-Bakersfield, CA,2706.83,69.2
-Durham, NC,2694.62,66.44
-Reno, NV,2651.67,62.88
-Richmond, VA,2635.57,70.98
-Huntsville, AL,2632.31,63.34
-Jacksonville, FL,2619.79,73.58
-Columbus, OH,2607.68,69.13
-Everett, WA,2603.82,77.63
-Charleston, SC,2593.08,86.19
-Lexington, KY,2592.5,67.9
-Pittsburgh, PA,2579.65,78.66
-Kansas City, MO,2573.96,69.05
-Miami, FL,2501.22,86.01
-Louisville, KY,2441.07,65.14
-Cincinnati, OH,2427.86,69.13
-Greenville, SC,2395.45,74.08
-Hartford, CT,2392.56,80.86
-Des Moines, IA,2385.92,69.37
-Omaha, NE,2385.65,67.8
-Indianapolis, IN,2377.08,74.72
-Boise, ID,2376.67,62.65
-Asheville, NC,2338.57,77.36
-Melbourne, FL,2337.29,77.09
-Oklahoma City, OK,2324.93,64.29
-Bellingham, WA,2315,77.13
-Tallahassee, FL,2314,null
-Spokane, WA,2310.71,69.26
-Greensboro, NC,2309.06,74.1
-Milwaukee, WI,2307.38,73.37
-Little Rock, AR,2302.52,71.29
-Lubbock, TX,2275,66.9
-Tulsa, OK,2271.21,66.71
-Grand Rapids, MI,2264.5,70.58
-Chattanooga, TN,2242.5,66.89
-Salem, OR,2211.53,69.81
-Wichita, KS,2199.36,67.02
-Columbia, SC,2190.28,69.7
-Birmingham, AL,2185.69,74.64
-Albany, NY,2184.58,80.19
-Albuquerque, NM,2175,65.73
-Fort Wayne, IN,2169.83,69.42
-Tucson, AZ,2152.62,63
-New Orleans, LA,2143.72,76.64
-Fort Myers, FL,2124.17,68.06
-Fresno, CA,2091,72.36
-Knoxville, TN,2089.17,62.18
-Mobile, AL,2084.67,65.31
-Buffalo, NY,2057,72.15
-Rochester, NY,2028.31,70.52
-Eugene, OR,2001.27,78.94
-El Paso, TX,1968,null
-Detroit, MI,1940.8,70.2
-Peoria, IL,1934.22,null
-Cleveland, OH,1923.08,73.47
-Winston-salem, NC,1916.83,66.27
-Toledo, OH,1894.67,null
-Fayetteville, AR,1808.36,74.9
-Baton Rouge, LA,1753,null
-Gainesville, FL,1736.78,null
-Syracuse, NY,1696,72.88
-Athens, GA,1629.67,60.55
-Springfield, MO,1558.58,66.4
-Dayton, OH,1545,69.76
+Sunnyvale,CA,5730,null
+Bellevue,WA,5394,88.85
+San Francisco,CA,5096.96,97.84
+San Jose,CA,4969.94,82.87
+Washington,DC,4426.31,91.94
+Seattle,WA,4423.85,88.04
+New York,NY,4157,100
+San Diego,CA,4028.1,77.01
+Fremont,CA,3975.71,null
+Anchorage,AK,3967.31,94.99
+Irvine,CA,3908.29,83.73
+Boston,MA,3888.04,87.05
+Oakland,CA,3797.5,85.11
+Atlanta,GA,3762.84,74.97
+Austin,TX,3711.99,72.46
+Arlington,VA,3708.33,89.2
+Honolulu,HI,3699.56,94.15
+Chicago,IL,3676.52,80.16
+Jersey City,NJ,3593.87,79.91
+Sacramento,CA,3567.77,78.75
+Houston,TX,3512.9,70.37
+Dallas,TX,3511.28,65.94
+Santa Barbara,CA,3489,79.17
+Los Angeles,CA,3483.44,82.3
+Denver,CO,3464.56,77.31
+Portland,OR,3438.45,78.45
+Long Beach,CA,3409.75,78.23
+Minneapolis,MN,3367.97,81.46
+Plano,TX,3358.3,75.32
+Nashville,TN,3357.96,71.88
+Santa Rosa,CA,3325.25,90.23
+Berkeley,CA,3289.11,87.82
+Virginia Beach,VA,3269,69.33
+Charlotte,NC,3248.85,75.35
+Saint Petersburg,FL,3236.6,73.29
+Raleigh,NC,3226.65,71.4
+Tampa,FL,3165.19,76.53
+Brooklyn,NY,3057.93,93.79
+Fort Lauderdale,FL,3004.13,77.67
+Saint Louis,MO,2988.33,70.76
+Salt Lake City,UT,2984.6,66.76
+Madison,WI,2940.73,65.6
+Philadelphia,PA,2919.58,83.46
+Orlando,FL,2918.79,76.63
+Vancouver,WA,2910.18,67.79
+Las Vegas,NV,2890.69,70.97
+Tacoma,WA,2882.22,82.54
+West Palm Beach,FL,2870.08,76.52
+Phoenix,AZ,2859.09,66.87
+Fort Worth,TX,2858.99,67.81
+Burlington,VT,2851.73,78.89
+Colorado Springs,CO,2843.93,75.42
+Baltimore,MD,2808.57,76.57
+San Antonio,TX,2802.73,60.92
+Arlington,TX,2787,65.63
+Harrisburg,PA,2763.82,69.91
+Boulder,CO,2748,82.19
+Ann Arbor,MI,2731.33,70.01
+Memphis,TN,2714.12,72.95
+Bakersfield,CA,2706.83,69.2
+Durham,NC,2694.62,66.44
+Reno,NV,2651.67,62.88
+Richmond,VA,2635.57,70.98
+Huntsville,AL,2632.31,63.34
+Jacksonville,FL,2619.79,73.58
+Columbus,OH,2607.68,69.13
+Everett,WA,2603.82,77.63
+Charleston,SC,2593.08,86.19
+Lexington,KY,2592.5,67.9
+Pittsburgh,PA,2579.65,78.66
+Kansas City,MO,2573.96,69.05
+Miami,FL,2501.22,86.01
+Louisville,KY,2441.07,65.14
+Cincinnati,OH,2427.86,69.13
+Greenville,SC,2395.45,74.08
+Hartford,CT,2392.56,80.86
+Des Moines,IA,2385.92,69.37
+Omaha,NE,2385.65,67.8
+Indianapolis,IN,2377.08,74.72
+Boise,ID,2376.67,62.65
+Asheville,NC,2338.57,77.36
+Melbourne,FL,2337.29,77.09
+Oklahoma City,OK,2324.93,64.29
+Bellingham,WA,2315,77.13
+Tallahassee,FL,2314,null
+Spokane,WA,2310.71,69.26
+Greensboro,NC,2309.06,74.1
+Milwaukee,WI,2307.38,73.37
+Little Rock,AR,2302.52,71.29
+Lubbock,TX,2275,66.9
+Tulsa,OK,2271.21,66.71
+Grand Rapids,MI,2264.5,70.58
+Chattanooga,TN,2242.5,66.89
+Salem,OR,2211.53,69.81
+Wichita,KS,2199.36,67.02
+Columbia,SC,2190.28,69.7
+Birmingham,AL,2185.69,74.64
+Albany,NY,2184.58,80.19
+Albuquerque,NM,2175,65.73
+Fort Wayne,IN,2169.83,69.42
+Tucson,AZ,2152.62,63
+New Orleans,LA,2143.72,76.64
+Fort Myers,FL,2124.17,68.06
+Fresno,CA,2091,72.36
+Knoxville,TN,2089.17,62.18
+Mobile,AL,2084.67,65.31
+Buffalo,NY,2057,72.15
+Rochester,NY,2028.31,70.52
+Eugene,OR,2001.27,78.94
+El Paso,TX,1968,null
+Detroit,MI,1940.8,70.2
+Peoria,IL,1934.22,null
+Cleveland,OH,1923.08,73.47
+Winston-salem,NC,1916.83,66.27
+Toledo,OH,1894.67,null
+Fayetteville,AR,1808.36,74.9
+Baton Rouge,LA,1753,null
+Gainesville,FL,1736.78,null
+Syracuse,NY,1696,72.88
+Athens,GA,1629.67,60.55
+Springfield,MO,1558.58,66.4
+Dayton,OH,1545,69.76
